@@ -1,0 +1,11 @@
+{
+  "domain": "exist_io",
+  "name": "Exist.io",
+  "config_flow": true,
+  "documentation": "https://foo.bar/comingsoon",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "version": "0.0.1",
+  "iot_class": "cloud_polling"
+}
