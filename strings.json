@@ -1,4 +1,16 @@
-from . import async_setup_entry as async_setup_component_entry
-
-async def async_setup_entry(hass, config_entry, async_add_entities):
-    await async_setup_component_entry(hass, config_entry, async_add_entities)
+{
+    "config": {
+      "step": {
+        "user": {
+          "data": {
+            "token": "Enter your ExisIO token"
+          }
+        }
+      },
+      "error": {
+        "cannot_connect": "Cannot connect to ExisIO",
+        "unknown": "An unknown error occurred"
+      },
+      "title": "ExisIO"
+    }
+  }
