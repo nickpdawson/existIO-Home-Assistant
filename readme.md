@@ -40,4 +40,6 @@ Contributions to the Exist.io integration are welcome. Please open a pull reques
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
